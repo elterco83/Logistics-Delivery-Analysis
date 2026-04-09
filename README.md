@@ -31,7 +31,7 @@ Hay zonas con muchísima concentración de entregas Se forman clusters claros qu
 ### 📌 Zona Caballito - Almagro
 ![Caballito Almagro](images/mapa_caballito_almagro.png)
 
-##🚀 Para qué sirve esto
+## 🚀 Para qué sirve esto
 Este análisis no queda solo en lo descriptivo.
 
 Se puede usar como base para:

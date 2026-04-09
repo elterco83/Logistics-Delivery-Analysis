@@ -1,86 +1,45 @@
-# 📊 Logistics Delivery Analysis
+📦 Análisis de Entregas Logísticas en CABA
 
-## 📌 Descripción
+Este proyecto surge a partir de datos reales de entregas domiciliarias con los que trabajé en una operación logística.
 
-En este proyecto trabajo sobre datos reales de entregas logísticas de una operación en la que participé. Para poder compartirlo, armé una versión anonimizada del dataset, eliminando toda la información sensible.
+La idea fue entender cómo se comportan los clientes, dónde se concentran las entregas y qué oportunidades hay para mejorar la distribución o incluso armar algo propio a partir de esto.
 
-La idea principal es entender cómo se comporta la demanda, cómo se distribuyen los clientes y qué zonas tienen mayor concentración de entregas. A partir de eso, busco detectar oportunidades de mejora en la operación.
+🎯 Objetivo
 
----
+Más que hacer un análisis técnico, el foco fue responder preguntas concretas:
 
-## 🎯 Objetivo
+¿Dónde están realmente los clientes?
+¿Se pueden agrupar para optimizar rutas?
+¿Hay zonas que justifican un esquema de reparto propio?
+¿Se puede pensar en un modelo tipo suscripción o marketplace?
+📊 Dataset
 
-Con este análisis busco:
+Se trabajó con un dataset anonimizado de entregas reales:
 
-- Entender cómo se distribuyen los clientes según su nivel de actividad  
-- Detectar qué zonas concentran mayor volumen de entregas  
-- Analizar el comportamiento de la cantidad de entregas  
-- Identificar posibles mejoras en la distribución  
++25.000 registros
+~90.000 clientes únicos
+Ubicados en CABA
 
----
+Incluye información como dirección, coordenadas y zonas de entrega.
 
-## 🧠 Dataset
+🧠 Qué hice
+Limpieza y normalización de datos
+Eliminación de duplicados
+Georreferenciación de clientes
+Segmentación por zonas
+Visualización en mapas para entender distribución real
+💡 Qué encontré
+Hay zonas con muchísima concentración de entregas
+Se forman clusters claros que permiten pensar rutas más eficientes
+Hay clientes recurrentes que tienen valor comercial
+La distribución no es uniforme, lo que abre oportunidades para segmentar
+🚀 Para qué sirve esto
 
-El dataset original forma parte de una operación real, pero para este repositorio se trabajó con una versión anonimizada.
+Este análisis no queda solo en lo descriptivo.
 
-Las variables principales son:
+Se puede usar como base para:
 
-- `barrio`: ubicación general del cliente  
-- `latitud` / `longitud`: coordenadas geográficas  
-- `segmento`: clasificación del cliente (alto, medio, bajo)  
-- `cantidad_entregas`: cantidad total de entregas por cliente  
-
----
-
-## 🔧 Herramientas utilizadas
-
-- Python (Pandas, NumPy)  
-- Matplotlib / Seaborn  
-- Jupyter Notebook  
-- Power BI (para visualización complementaria)  
-
----
-
-## 📈 Análisis realizado
-
-Durante el análisis trabajé sobre:
-
-- Limpieza y preparación de los datos  
-- Análisis exploratorio (EDA)  
-- Segmentación de clientes  
-- Análisis por zonas y barrios  
-- Visualización de la distribución de entregas  
-
----
-
-## 📊 Algunos hallazgos
-
-- Hay barrios que concentran una mayor cantidad de clientes y entregas  
-- Los clientes de segmento alto tienen un peso importante en la operación  
-- La demanda no está distribuida de forma uniforme  
-- Se pueden detectar zonas donde agrupar entregas podría mejorar la eficiencia  
-
----
-
-## 🚀 Próximos pasos
-
-- Incorporar análisis temporal de las entregas  
-- Aplicar modelos de predicción de demanda  
-- Explorar optimización de rutas con algoritmos  
-- Integrar datos de geolocalización más precisos  
-
----
-
-## 🔐 Sobre los datos
-
-Todos los datos sensibles fueron eliminados antes de publicar este repositorio.  
-No se incluyen nombres, teléfonos, emails ni direcciones exactas.
-
----
-
-## 👤 Autor
-
-**Emiliano Etchezar**  
-📧 emilianoetchezar@gmail.com  
-  
-🔗 GitHub: https://github.com/elterco83
+Optimizar una operación logística existente
+Definir zonas de reparto
+Armar un esquema de entregas por suscripción
+Pensar un marketplace de delivery enfocado en bebidas u otros productos

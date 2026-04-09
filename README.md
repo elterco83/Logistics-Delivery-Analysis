@@ -56,7 +56,19 @@ Incluye información como:
 ![Caballito Almagro](images/mapa_caballito_almagro.png)
 
 ---
+## 📊 Análisis de distribución
 
+### 📌 Barrios con mayor volumen de entregas
+![Entregas por barrio](images/entregas_por_barrio.png)
+
+Se observa una fuerte concentración de entregas en determinados barrios, lo que permite identificar zonas estratégicas para optimizar rutas y mejorar la eficiencia operativa.
+
+---
+
+### 👥 Barrios con mayor cantidad de clientes
+![Clientes por barrio](images/clientes_por_barrio.png)
+
+Este patrón acompaña la distribución de entregas, lo que refuerza la idea de concentración de demanda en zonas específicas.
 ## 💡 Qué encontré
 
 - Hay zonas con alta concentración de entregas  

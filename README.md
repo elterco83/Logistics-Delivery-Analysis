@@ -37,3 +37,9 @@ Este análisis no queda solo en lo descriptivo.
 Se puede usar como base para:
 
 Optimizar una operación logística existente Definir zonas de reparto Armar un esquema de entregas por suscripción Pensar un marketplace de delivery enfocado en bebidas u otros productos
+
+## 🧩 Contexto
+
+Este análisis está basado en datos reales de una operación logística en la que participé, lo que me permitió no solo trabajar con datos, sino entender cómo impactan en la operación diaria.
+
+El objetivo no fue solo analizar, sino detectar oportunidades reales de mejora y posibles modelos de negocio a partir de la información.

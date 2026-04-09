@@ -105,8 +105,3 @@ Se puede usar como base para:
 Este análisis parte de datos reales de una operación logística en la que participé, lo que permitió no solo trabajar con información concreta, sino también entender cómo se traduce en decisiones operativas.
 
 Más allá del análisis descriptivo, el enfoque estuvo puesto en identificar patrones que puedan convertirse en mejoras reales de la operación o incluso en oportunidades de desarrollo de nuevos modelos de distribución.
-## 🧩 Contexto
-
-Este análisis está basado en datos reales de una operación logística en la que participé, lo que me permitió no solo trabajar con datos, sino entender cómo impactan en la operación diaria.
-
-El objetivo no fue solo analizar, sino detectar oportunidades reales de mejora y posibles modelos de negocio a partir de la información.

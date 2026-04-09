@@ -47,26 +47,26 @@ Incluye información como:
 ## 📍 Visualización geográfica
 
 ### 🌎 Mapa general de clientes
-![Mapa general](images/clientes_unicos_total.png)
+![Mapa general]([images/clientes_unicos_total.png](https://github.com/elterco83/Logistics-Delivery-Analysis/blob/260e5ce989ceba0d560840e3cf1f0708b37287eb/images/clientes_unicos_total.png)
 
 ### 📌 Zona Palermo - Belgrano
-![Palermo Belgrano](images/mapa_palermo_belgrano.png)
+![Palermo Belgrano]([images/mapa_palermo_belgrano.png](https://github.com/elterco83/Logistics-Delivery-Analysis/blob/260e5ce989ceba0d560840e3cf1f0708b37287eb/images/mapa_palermo_belgrano.png)
 
 ### 📌 Zona Caballito - Almagro
-![Caballito Almagro](images/mapa_caballito_almagro.png)
+![Caballito Almagro]([images/mapa_caballito_almagro.png](https://github.com/elterco83/Logistics-Delivery-Analysis/blob/260e5ce989ceba0d560840e3cf1f0708b37287eb/images/mapa_caballito_almagro.png)
 
 ---
 ## 📊 Análisis de distribución
 
 ### 📌 Barrios con mayor volumen de entregas
-![Entregas por barrio](images/entregas_por_barrio.png)
+![Entregas por barrio](https://github.com/elterco83/Logistics-Delivery-Analysis/blob/260e5ce989ceba0d560840e3cf1f0708b37287eb/images/entregas_por_barrio.png)
 
 Se observa una fuerte concentración de entregas en determinados barrios, lo que permite identificar zonas estratégicas para optimizar rutas y mejorar la eficiencia operativa.
 
 ---
 
 ### 👥 Barrios con mayor cantidad de clientes
-![Clientes por barrio](images/clientes_por_barrio.png)
+![Clientes por barrio](https://github.com/elterco83/Logistics-Delivery-Analysis/blob/260e5ce989ceba0d560840e3cf1f0708b37287eb/images/clientes_por_barrio.png)
 
 Este patrón acompaña la distribución de entregas, lo que refuerza la idea de concentración de demanda en zonas específicas.
 ## 💡 Qué encontré

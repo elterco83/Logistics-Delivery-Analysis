@@ -47,13 +47,13 @@ Incluye información como:
 ## 📍 Visualización geográfica
 
 ### 🌎 Mapa general de clientes
-![Mapa general]([images/clientes_unicos_total.png](https://github.com/elterco83/Logistics-Delivery-Analysis/blob/260e5ce989ceba0d560840e3cf1f0708b37287eb/images/clientes_unicos_total.png)
+![Mapa general](https://github.com/elterco83/Logistics-Delivery-Analysis/blob/260e5ce989ceba0d560840e3cf1f0708b37287eb/images/clientes_unicos_total.png)
 
 ### 📌 Zona Palermo - Belgrano
-![Palermo Belgrano]([images/mapa_palermo_belgrano.png](https://github.com/elterco83/Logistics-Delivery-Analysis/blob/260e5ce989ceba0d560840e3cf1f0708b37287eb/images/mapa_palermo_belgrano.png)
+![Palermo Belgrano](https://github.com/elterco83/Logistics-Delivery-Analysis/blob/260e5ce989ceba0d560840e3cf1f0708b37287eb/images/mapa_palermo_belgrano.png)
 
 ### 📌 Zona Caballito - Almagro
-![Caballito Almagro]([images/mapa_caballito_almagro.png](https://github.com/elterco83/Logistics-Delivery-Analysis/blob/260e5ce989ceba0d560840e3cf1f0708b37287eb/images/mapa_caballito_almagro.png)
+![Caballito Almagro](https://github.com/elterco83/Logistics-Delivery-Analysis/blob/260e5ce989ceba0d560840e3cf1f0708b37287eb/images/mapa_caballito_almagro.png)
 
 ---
 ## 📊 Análisis de distribución

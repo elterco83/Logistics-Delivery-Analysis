@@ -20,6 +20,17 @@ Limpieza y normalización de datos Eliminación de duplicados Georreferenciació
 ## 💡 Qué encontré
 Hay zonas con muchísima concentración de entregas Se forman clusters claros que permiten pensar rutas más eficientes Hay clientes recurrentes que tienen valor comercial La distribución no es uniforme, lo que abre oportunidades para segmentar
 
+## 📍 Visualización geográfica
+
+### 🌎 Mapa general de clientes
+![Mapa general](images/clientes_unicos_total.png)
+
+### 📌 Zona Palermo - Belgrano
+![Palermo Belgrano](images/mapa_palermo_belgrano.png)
+
+### 📌 Zona Caballito - Almagro
+![Caballito Almagro](images/mapa_caballito_almagro.png)
+
 ##🚀 Para qué sirve esto
 Este análisis no queda solo en lo descriptivo.
 

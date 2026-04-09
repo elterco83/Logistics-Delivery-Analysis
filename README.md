@@ -1,10 +1,10 @@
-📦 Análisis de Entregas Logísticas en CABA
+#📦 Análisis de Entregas Logísticas en CABA
 
 Este proyecto surge a partir de datos reales de entregas domiciliarias con los que trabajé en una operación logística.
 
 La idea fue entender cómo se comportan los clientes, dónde se concentran las entregas y qué oportunidades hay para mejorar la distribución o incluso armar algo propio a partir de esto.
 
-🎯 Objetivo
+##🎯 Objetivo
 
 Más que hacer un análisis técnico, el foco fue responder preguntas concretas:
 
@@ -22,18 +22,20 @@ Ubicados en CABA
 
 Incluye información como dirección, coordenadas y zonas de entrega.
 
-🧠 Qué hice
+##🧠 Qué hice
 Limpieza y normalización de datos
 Eliminación de duplicados
 Georreferenciación de clientes
 Segmentación por zonas
 Visualización en mapas para entender distribución real
-💡 Qué encontré
+
+##💡 Qué encontré
 Hay zonas con muchísima concentración de entregas
 Se forman clusters claros que permiten pensar rutas más eficientes
 Hay clientes recurrentes que tienen valor comercial
 La distribución no es uniforme, lo que abre oportunidades para segmentar
-🚀 Para qué sirve esto
+
+##🚀 Para qué sirve esto
 
 Este análisis no queda solo en lo descriptivo.
 

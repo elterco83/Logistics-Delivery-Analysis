@@ -116,4 +116,6 @@ Se puede usar como base para:
 
 Este análisis parte de datos reales de una operación logística en la que participé, lo que permitió no solo trabajar con información concreta, sino también entender cómo se traduce en decisiones operativas.
 
+Para los análisis por barrio se consideraron únicamente registros dentro de CABA, ya que los clientes fuera de esta zona no contaban con clasificación por barrio.
+
 Más allá del análisis descriptivo, el enfoque estuvo puesto en identificar patrones que puedan convertirse en mejoras reales de la operación o incluso en oportunidades de desarrollo de nuevos modelos de distribución.

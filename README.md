@@ -1,9 +1,6 @@
 # 📦 Análisis de Entregas Logísticas – Optimización de última milla
 
-Este proyecto surge a partir de datos reales de entregas domiciliarias con los que trabajé en una operación logística.
-
-La idea fue entender cómo se comportan los clientes, dónde se concentran las entregas y qué oportunidades hay para mejorar la distribución o incluso armar algo propio a partir de esto.
-
+Este proyecto surge a partir de un dataset real de entregas domiciliarias del sector logístico (anonimizado), trabajado de forma independiente.
 ---
 
 ## 🎯 Objetivo
@@ -114,7 +111,7 @@ Se puede usar como base para:
 
 ## 🧩 Contexto
 
-Este análisis parte de datos reales de una operación logística en la que participé, lo que permitió no solo trabajar con información concreta, sino también entender cómo se traduce en decisiones operativas.
+Este análisis parte de un dataset real de entregas del sector logístico (anonimizado), obtenido de forma independiente, lo que permitió trabajar con información concreta y entender cómo se traduce en decisiones operativas.
 
 Para los análisis por barrio se consideraron únicamente registros dentro de CABA, ya que los clientes fuera de esta zona no contaban con clasificación por barrio.
 
